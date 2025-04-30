@@ -238,7 +238,7 @@ Transform:
   m_GameObject: {fileID: 427019037}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.1, y: -9.6, z: 0}
   m_LocalScale: {x: 4.095731, y: 3.8798368, z: 3.2860484}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -340,9 +340,14 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"moveSpeed","value":{"$content":0.25,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Detection
       Range","value":{"$content":2.5,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"PatrolA","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Transform,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"PatrolB","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Transform,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"TowardsA","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 2964878103069907621}
+    - {fileID: 915423787}
+    - {fileID: 1699143298}
 --- !u!1 &915423786
 GameObject:
   m_ObjectHideFlags: 0
@@ -823,11 +828,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2430936125352561106, guid: 8df35ad2774ce49449055a62bdd16514, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 14.904301
+      value: 22.2
       objectReference: {fileID: 0}
     - target: {fileID: 2430936125352561106, guid: 8df35ad2774ce49449055a62bdd16514, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 9.004
+      value: 2.1
       objectReference: {fileID: 0}
     - target: {fileID: 2430936125352561106, guid: 8df35ad2774ce49449055a62bdd16514, type: 3}
       propertyPath: m_LocalPosition.z
