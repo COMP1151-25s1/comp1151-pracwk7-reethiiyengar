@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3568371159871656259}
   - component: {fileID: 2093917401386475826}
   m_Layer: 7
-  m_Name: powerupGreen_0
+  m_Name: HealthPickup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

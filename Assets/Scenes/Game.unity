@@ -737,7 +737,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 683666745549179481, guid: e4fd9c867d3dcde4b81d920f250236f4, type: 3}
       propertyPath: m_Name
-      value: powerupGreen_0
+      value: HealthPickup
       objectReference: {fileID: 0}
     - target: {fileID: 683666745549179481, guid: e4fd9c867d3dcde4b81d920f250236f4, type: 3}
       propertyPath: m_TagString
@@ -884,7 +884,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8070001244547069020, guid: 8df35ad2774ce49449055a62bdd16514, type: 3}
       propertyPath: m_Name
-      value: meteorBrown_big2_0
+      value: Asteroid
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6885285060664565259, guid: 8df35ad2774ce49449055a62bdd16514, type: 3}

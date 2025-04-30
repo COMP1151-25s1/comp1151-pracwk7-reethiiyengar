@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 4156876945971591157}
   - component: {fileID: 6885285060664565259}
   m_Layer: 6
-  m_Name: meteorBrown_big2_0
+  m_Name: Asteroid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
